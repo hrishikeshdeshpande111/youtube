@@ -75,3 +75,7 @@
     bottom: 8px;
     right: 5px;
 }
+
+.p .video.stats{
+    color: rgb(60,60,60);
+}
